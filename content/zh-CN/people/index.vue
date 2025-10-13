@@ -20,53 +20,24 @@ interface People {
 const people: People = {
   'Meet the Team!': [
     {
-      title: 'Esme (she/她/elle)',
+      title: '小魔 (She/Her)',
       details:
-        'Esme is our director. She is in charge of One Among Us annual TDoR and TDoV events in Toronto and is currently working on political campaigns demanding OHIP for all. She doesn’t enjoy computer programming, nor does she enjoy learning math. What she loves is to capture the everyday landscapes of the city and moments of her friends on photo, as well as fixing up vintage bikes and electronics.',
-      link: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/esme.jpg',
+        '「万物许可，顺随，完美。」Blossom Selves组织者',
+      link: 'https://cdn5.telesco.pe/file/JByt0C76yv8Y5j2CoJKhnGfhHzAunNJjjptxnKwpMZG5hDAG4LhrOki-KVe19zShiABm-n2AreKje38U0766QLPnNa2Mw-KRWtXuGwRqY7X3ttXCAHOA1BPEz8dXkFte7AiCc8QAhEqLP7RXqXfoRm5Sb9KpdZ4rI9t0CVSRd8OFnxQeIkoLCScwko4gTxqFu3FXL_ke2QAZdLRCDqjfDDxuTjHFM3DwMQRn778T11bX6FhisPVjmXtnxQJR9LTBDph1tgKVUP1y7fsXV50YBHOix6ZgfK8GK5AXpCAbbCDzATv5pJKHBuCIt17BO__Ph-5xp3g6yFAZCn2DHJ20hA.jpg',
       icon: {
-        src: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/esme.jpg',
+        src: 'https://cdn5.telesco.pe/file/JByt0C76yv8Y5j2CoJKhnGfhHzAunNJjjptxnKwpMZG5hDAG4LhrOki-KVe19zShiABm-n2AreKje38U0766QLPnNa2Mw-KRWtXuGwRqY7X3ttXCAHOA1BPEz8dXkFte7AiCc8QAhEqLP7RXqXfoRm5Sb9KpdZ4rI9t0CVSRd8OFnxQeIkoLCScwko4gTxqFu3FXL_ke2QAZdLRCDqjfDDxuTjHFM3DwMQRn778T11bX6FhisPVjmXtnxQJR9LTBDph1tgKVUP1y7fsXV50YBHOix6ZgfK8GK5AXpCAbbCDzATv5pJKHBuCIt17BO__Ph-5xp3g6yFAZCn2DHJ20hA.jpg',
         width: '100%',
       },
     },
     {
-      title: 'Annie (she/her)',
+      title: 'Liet Blue (She/Her)',
       details:
-        'Annie is one of One Among Us website maintainers, she contributes on writing entries that preserve memories of our departed friends. Occasionally, she gets bursts of inspiration and enjoys expressing them creatively. Well, she is also a stray cat who loves sneaking snacks (figuratively).',
-      link: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/annie.png',
+        '前端',
+      link: 'https://cdn5.telesco.pe/file/MMuZP7keN8agE_Dagf7ADD4wqLr2FKSsuXjaPQy8cJlQh0zd16eAQeX6suq3KsPNcQkNuxKLexoa5mlKaZoSBJEljwnuaFBBUBDuEm1qJhiVEqnx64FJtZY_mtFQhhHIcG-EuFp_dPk2ffwdXJVwgq2w7aSjV9MTCszcSxIN2I8N4RCWt6ml63c76nORXMJ_hVVGDcSOTygG0FtHY52B619fHLT_MXQA_ysQF5vh-D1KNzgVwEYEp6lOCUCys0fSEEtAZcRpQRd6zJddGP6O0MWCS93fAq1elhya535KBYHXomvpkH7w8Tf9yM1nyBHDUjIIkBMFKRu_8L95GkeaLg.jpg',
       icon: {
-        src: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/annie.png',
+        src: 'https://cdn5.telesco.pe/file/MMuZP7keN8agE_Dagf7ADD4wqLr2FKSsuXjaPQy8cJlQh0zd16eAQeX6suq3KsPNcQkNuxKLexoa5mlKaZoSBJEljwnuaFBBUBDuEm1qJhiVEqnx64FJtZY_mtFQhhHIcG-EuFp_dPk2ffwdXJVwgq2w7aSjV9MTCszcSxIN2I8N4RCWt6ml63c76nORXMJ_hVVGDcSOTygG0FtHY52B619fHLT_MXQA_ysQF5vh-D1KNzgVwEYEp6lOCUCys0fSEEtAZcRpQRd6zJddGP6O0MWCS93fAq1elhya535KBYHXomvpkH7w8Tf9yM1nyBHDUjIIkBMFKRu_8L95GkeaLg.jpg',
         width: '100%',
       },
-    },
-    {
-      title: 'Vapaa (they/she)',
-      details:
-        'Vapaa is primarily responsible for organizing and sharing a wide range of information, including how gender-diverse individuals can better complete their education, plan and start their lives worldwide, and many other related areas. If Vapaa does not notice the approach of other beings, you might see them jump in fright when startled.',
-      link: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/vapaa.jpg',
-      icon: {
-        src: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/vapaa.jpg',
-        width: '100%',
-      },
-    },
-    {
-      title: 'Beiyan Shu (she/they)',
-      details:
-        'Shu is primarily responsible for the Toronto community service and the inter-communication of One Among Us. She likes being with people. She is not a good cook and we warned you not to eat her cooking.',
-      link: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/shu.png',
-      icon: {
-        src: 'https://eu2.contabostorage.com/176b8434127b4d90bfb1360e128e586c:oneamongus/about-us/people/shu.png',
-        width: '100%',
-      },
-    },
-    {
-      title: 'Elihuso Quigley (cat/neko)',
-      details: 'A neko cat which could coding...\nYep our tech supporter just a neko!',
-      link: 'https://github.com/LS-KR',
-      icon: {
-        src: 'https://avatars.githubusercontent.com/u/64070144?v=4',
-        width: '100%'
-      }
     },
   ],
 };
